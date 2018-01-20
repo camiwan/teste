@@ -1,3 +1,3 @@
 # teste
 aprendendo git
-tete de readme-edtis
+teste de readme-edtis
